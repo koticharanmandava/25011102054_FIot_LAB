@@ -1,0 +1,56 @@
+# ============================================================
+# 25011102054_FIot_LAB
+# Ignore generated build files and local IDE settings.
+# Keep source code, circuit diagrams, README files and project
+# configuration files under version control.
+# ============================================================
+
+# Keil MDK / uVision generated output
+**/Objects/
+**/Listings/
+**/Output/
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.m51
+*.crf
+*.dep
+*.d
+*.o
+*.obj
+*.lnp
+*.plg
+*.build_log.htm
+*.htm
+
+# Keil user-specific workspace and debugger settings
+*.uvopt
+*.uvoptx
+*.uvgui
+*.uvgui.*
+*.uvguix.*
+*.bak
+
+# STM32CubeIDE / Eclipse generated workspace files
+.metadata/
+.settings/
+*.launch
+
+# Common build and temporary directories
+**/build/
+**/Build/
+**/Debug/
+**/Release/
+*.tmp
+*.temp
+*.bak
+*.old
+*~
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
